@@ -8,6 +8,7 @@
 body{
     background-color: var(--color3);
 }
+
 .backpanel{
     width: 60%;
     max-width: 400px;
@@ -28,6 +29,10 @@ button{
     background-color: black;
     border-radius: 10px;
     margin-bottom: 5px;
+    text-align: right;
+    color: rgb(241, 163, 227);
+    font-family: orbitron;
+    font-size: 30px;
 }
 
 .row{
